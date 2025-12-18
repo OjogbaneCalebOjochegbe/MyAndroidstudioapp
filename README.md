@@ -1,16 +1,13 @@
-# class_projects
+a class flutter project with screenshots of the 
+registration page
+login page 
+and forgotpassword page
 
-A new Flutter project.
+<img width="1080" height="2400" alt="Screenshot_20251218_112120" src="https://github.com/user-attachments/assets/7d8ded58-ba5f-4d26-b5d5-6b0c42e67536" />
+<img width="1080" height="2400" alt="Screenshot_20251218_111944" src="https://github.com/user-attachments/assets/1c0d14eb-f4ba-4e25-bf44-b4574d4ea33f" />
+<img width="1080" height="2400" alt="Screenshot_20251218_111910" src="https://github.com/user-attachments/assets/d4d71892-06a4-4e9a-b867-e5e25aadaf3b" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
